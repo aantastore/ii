@@ -12,10 +12,10 @@ return `PAYMENT BY ZEEONE OFC
 		• A****S
 2. OVO
 	ㅁ 0812 6241 1188
-		• EL*****TI
+		• A****S
 3. DANA
 	ㅁ0812 6241 1188
-		• ZE**** **C
+		• A****S
 
 *さ PULSA*
 
