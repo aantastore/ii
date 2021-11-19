@@ -2300,7 +2300,7 @@ const buttons1 = [
 ]
 
 const btn1 = {
-    contentText: `Halo @${sender.split('@')[0]}\n\nTop up diamond by WhatsApp bot. Ini hanyalah percobaan jadi zeeone gak jual diamond, uc, dll. Untuk list shop yang lain ketik ${prefix}price😅🤙`,
+    contentText: `Halo @${sender.split('@')[0]}\n\nTop up diamond by WhatsApp bot. Ini hanyalah percobaan jadi xynta gak jual diamond, uc, dll. Untuk list shop yang lain ketik ${prefix}price😅🤙`,
     footerText: `${tampilTanggal}\n${tampilWaktu}\n${creator}\n\nRegard @${koko.split('@')[0]}`,
     buttons: buttons1,
     headerType: 6,
